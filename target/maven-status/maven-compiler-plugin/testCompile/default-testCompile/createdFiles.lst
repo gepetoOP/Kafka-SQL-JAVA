@@ -1,5 +1,0 @@
-META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\com.example.$DemoTest$Definition$Reference
-com\example\$DemoTest$Definition$Reference.class
-com\example\$DemoTest$Definition.class
-com\example\DemoTest.class
-com\example\$DemoTest$Definition$Exec.class
